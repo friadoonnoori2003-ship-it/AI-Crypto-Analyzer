@@ -7,4 +7,4 @@ Folder contents
 - .python-version   <- Python 3.12 (the original needs 3.10+)
 
 Run on your own PC
-By getting a openrouter free API key you can go to this(https://openrouter.ai/)site and create your free API key and then use this app.
+By getting a openrouter free API key you can go to this(https://openrouter.ai/) site and create your free API key and then use this app.
